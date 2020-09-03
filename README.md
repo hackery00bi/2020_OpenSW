@@ -47,4 +47,4 @@ ver : 1.0.1
   
         ![image](https://user-images.githubusercontent.com/61904460/92078145-befac800-edf8-11ea-8c94-daab2bff1249.png)
 
-#### If the depth is high, it may take a long time, please wait for results.
+## If the depth is high, it may take a long time, please wait for results.
