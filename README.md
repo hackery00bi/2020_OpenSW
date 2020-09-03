@@ -24,7 +24,7 @@ ver : 1.0.1
 
 ​	You can see thie page
 
-   	![image](https://user-images.githubusercontent.com/61904460/92078104-af7b7f00-edf8-11ea-92af-2ca86f4cc74f.png)
+​	![image](https://user-images.githubusercontent.com/61904460/92078104-af7b7f00-edf8-11ea-92af-2ca86f4cc74f.png)
 
 
 
