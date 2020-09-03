@@ -14,11 +14,11 @@ ver : 1.0.1
 
 #### Usage
 
-##### * 1. Execute
+* ##### 1. Execute
 
-  * `python GUI.py`
+  - `python GUI.py`
 
-  * ※ trafilatura, wordcloud, PyQt5, konlpy, sklearn, numpy, beautifulsoup must be 	installed
+  - ※ trafilatura, wordcloud, PyQt5, konlpy, sklearn, numpy, beautifulsoup must be 	installed
 
 
 
