@@ -43,6 +43,6 @@ ver : 1.0.1
 
    - ##### 	2-2. wordcloud
    
-    + This option will make `wordcloud_keyword.png` file
+      + This option will make `wordcloud_keyword.png` file
   
-      ![image](https://user-images.githubusercontent.com/61904460/92078145-befac800-edf8-11ea-8c94-daab2bff1249.png)
+        ![image](https://user-images.githubusercontent.com/61904460/92078145-befac800-edf8-11ea-8c94-daab2bff1249.png)
