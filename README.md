@@ -22,7 +22,7 @@ ver : 1.0.1
 
 
 
-  You can see thie page
+  You can see this page
 
   ![image](https://user-images.githubusercontent.com/61904460/92078104-af7b7f00-edf8-11ea-92af-2ca86f4cc74f.png)
 
@@ -46,3 +46,5 @@ ver : 1.0.1
       + This option will make `wordcloud_keyword.png` file
   
         ![image](https://user-images.githubusercontent.com/61904460/92078145-befac800-edf8-11ea-8c94-daab2bff1249.png)
+
+#### If the depth is high, it may take a long time, please wait for results.
